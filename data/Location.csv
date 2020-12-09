@@ -1,0 +1,571 @@
+0,New York,NY
+1,Fairfield,NJ
+2,Jersey City,NJ
+3,Brooklyn,NY
+4,Weehawken,NJ
+5,Long Island City,NY
+6,Florham Park,NJ
+7,Manhasset,NY
+8,Newark,NJ
+9,Queens Village,NY
+10,Haworth,NJ
+11,Fort Lee,NJ
+12,South Plainfield,NJ
+13,Bronx,NY
+14,Little Ferry,NJ
+15,Lake Success,NY
+16,Summit,NJ
+17,Valley Stream,NY
+18,Berkeley Heights,NJ
+19,Essex Fells,NJ
+20,Franklin Lakes,NJ
+21,Mount Vernon,NY
+22,Secaucus,NJ
+23,West Orange,NJ
+24,Far Rockaway,NY
+25,Woodbridge,NJ
+26,Parsippany,NJ
+27,Whippany,NJ
+28,Great Neck,NY
+29,Hoboken,NJ
+30,Staten Island,NY
+31,Harrison,NY
+32,Iselin,NJ
+33,Montvale,NJ
+34,Woodcliff Lake,NJ
+35,Salt Lake City,NY
+36,West Jordan,NY
+37,Lehi,NY
+38,Draper,NY
+39,American Fork,NY
+40,Sandy,NY
+41,Riverton,NY
+42,Reedley,CA
+43,Visalia,CA
+44,Hanford,CA
+45,Hampton,VA
+46,Norfolk,VA
+47,Portsmouth,VA
+48,Chesapeake,VA
+49,Smithfield,VA
+50,Suffolk,VA
+51,Newport News,VA
+52,Virginia Beach,VA
+53,Yorktown,VA
+54,Fort Eustis,VA
+55,Gainesville,FL
+56,Alachua,FL
+57,El Segundo,CA
+58,Santa Monica,CA
+59,Los Angeles,CA
+60,Hermosa Beach,CA
+61,Gardena,CA
+62,Burbank,CA
+63,Culver City,CA
+64,Glendale,CA
+65,Inglewood,CA
+66,Venice,CA
+67,Pasadena,CA
+68,Cerritos,CA
+69,Carson,CA
+70,Irwindale,CA
+71,Anaheim,CA
+72,Beverly Hills,CA
+73,Long Beach,CA
+74,Northridge,CA
+75,Alhambra,CA
+76,Brea,CA
+77,Duarte,CA
+78,Woodland Hills,CA
+79,Monterey Park,CA
+80,Marina del Rey,CA
+81,Arcadia,CA
+82,Torrance,CA
+83,Panorama City,CA
+84,Signal Hill,CA
+85,Azusa,CA
+86,City of Industry,CA
+87,Pico Rivera,CA
+88,Whittier,CA
+89,San Fernando,CA
+90,Chicago,IL
+91,Downers Grove,IL
+92,Broadview,IL
+93,Woodridge,IL
+94,Burr Ridge,IL
+95,Rolling Meadows,IL
+96,Deerfield,IL
+97,Northlake,IL
+98,Northbrook,IL
+99,Des Plaines,IL
+100,Itasca,IL
+101,Evanston,IL
+102,Bridgeview,IL
+103,Oak Brook,IL
+104,Maywood,IL
+105,Northfield,IL
+106,Glenview,IL
+107,Elk Grove Village,IL
+108,Arlington Heights,IL
+109,Houston,TX
+110,Stafford,TX
+111,Pearland,TX
+112,Sugar Land,TX
+113,Pasadena,TX
+114,Spring,TX
+115,Tempe,AZ
+116,Phoenix,AZ
+117,Scottsdale,AZ
+118,Glendale,AZ
+119,Chandler,AZ
+120,Mesa,AZ
+121,DC Ranch,AZ
+122,King of Prussia,PA
+123,Plymouth Meeting,PA
+124,Blue Bell,PA
+125,Fort Washington,PA
+126,Philadelphia,PA
+127,Wilmington,DE
+128,Malvern,PA
+129,Horsham,PA
+130,Camden,NJ
+131,Feasterville Trevose,PA
+132,Radnor,PA
+133,West Conshohocken,PA
+134,Wayne,PA
+135,Bensalem,PA
+136,Exton,PA
+137,Doylestown,PA
+138,Allegheny West,PA
+139,Paoli,PA
+140,Chester Township,PA
+141,Conshohocken,PA
+142,West Chester,PA
+143,Mount Laurel,NJ
+144,Ridley Park,PA
+145,Berwyn,PA
+146,Newtown,PA
+147,Newtown Square,PA
+148,Boothwyn,PA
+149,Norristown,PA
+150,West Point,PA
+151,Marlton,NJ
+152,Moorestown,NJ
+153,San Antonio,TX
+154,Lackland AFB,TX
+155,Fort Sam Houston,TX
+156,San Diego,CA
+157,National City,CA
+158,El Cajon,CA
+159,Plano,TX
+160,Allen,TX
+161,Arlington,TX
+162,Dallas,TX
+163,Richardson,TX
+164,Irving,TX
+165,Grapevine,TX
+166,Lewisville,TX
+167,Addison,TX
+168,Tarrant,TX
+169,Carrollton,TX
+170,Southlake,TX
+171,Coppell,TX
+172,Farmers Branch,TX
+173,Newark,CA
+174,Santa Clara,CA
+175,Redwood City,CA
+176,Cupertino,CA
+177,Fremont,CA
+178,San Jose,CA
+179,Menlo Park,CA
+180,Palo Alto,CA
+181,Mountain View,CA
+182,Sunnyvale,CA
+183,Los Gatos,CA
+184,Stanford,CA
+185,East Palo Alto,CA
+186,Pleasanton,CA
+187,Union City,CA
+188,Milpitas,CA
+189,Campbell,CA
+190,Austin,TX
+191,West Lake Hills,TX
+192,Round Rock,TX
+193,Cedar Park,TX
+194,Jacksonville,FL
+195,Fort Worth,TX
+196,Roanoke,TX
+197,Westlake,TX
+198,Columbus,OH
+199,Westerville,OH
+200,Hilliard,OH
+201,Dublin,OH
+202,Charlotte,NC
+203,Mooresville,NC
+204,Huntersville,NC
+205,Fort Mill,SC
+206,Indian Trail,NC
+207,San Francisco,CA
+208,San Rafael,CA
+209,San Mateo,CA
+210,Oakland,CA
+211,Berkeley,CA
+212,Burlingame,CA
+213,Foster City,CA
+214,Marin City,CA
+215,Daly City,CA
+216,South San Francisco,CA
+217,San Bruno,CA
+218,Emeryville,CA
+219,Novato,CA
+220,Millbrae,CA
+221,San Ramon,CA
+222,Hercules,CA
+223,Alameda,CA
+224,Walnut Creek,CA
+225,Carmel,IN
+226,Indianapolis,IN
+227,Whitestown,IN
+228,Jeffersonville,IN
+229,Beech Grove,IN
+230,Lawrence,IN
+231,Redmond,WA
+232,Seattle,WA
+233,Issaquah,WA
+234,Kent,WA
+235,Bellevue,WA
+236,Renton,WA
+237,Kirkland,WA
+238,Athens,GA
+239,Burlingame,KS
+240,Topeka,KS
+241,Denver,CO
+242,Centennial,CO
+243,Boulder,CO
+244,Greenwood Village,Arapahoe
+245,Henderson,CO
+246,Englewood,CO
+247,Lakewood,CO
+248,Lone Tree,CO
+249,Louisville,CO
+250,Aurora,CO
+251,Broomfield,CO
+252,Littleton,CO
+253,McLean,VA
+254,Stamford,CT
+255,London,United Kingdom
+256,NULL,NULL
+257,Rome,NY
+258,Waltham,MA
+259,Sydney,Australia
+260,Warren,MI
+261,Pittsburgh,PA
+262,Washington,DC
+263,Piscataway,NJ
+264,Westmont,IL
+265,West Hollywood,CA
+266,Kyiv,Ukraine
+267,Cherry Hill,NJ
+268,Cleveland,OH
+269,Hauppauge,NY
+270,Saint Louis,MO
+271,Tampa,FL
+272,Paris,France
+273,Princeton,NJ
+274,Colorado Springs,CO
+275,Atlanta,GA
+276,Plainsboro,NJ
+277,Dublin,Ireland
+278,Alexandria,VA
+279,Irvine,CA
+280,Glen Allen,VA
+281,North Brunswick,NJ
+282,Troy,MI
+283,Yorktown Heights,NY
+284,Northville,MI
+285,Armonk,NY
+286,Toronto,Canada
+287,Lenexa,KS
+288,Cincinnati,OH
+289,Baltimore,MD
+290,Burlington,MA
+291,Pleasantville,NY
+292,Singapore,Singapore
+293,New Brunswick,NJ
+294,Mumbai,India
+295,Bethesda,MD
+296,Bloomingdale,IL
+297,Louisville,KY
+298,Zurich,Switzerland
+299,West Hartford,CT
+300,Orlando,FL
+301,Somerset,NJ
+302,Tarrytown,NY
+303,Allentown,PA
+304,Frisco,TX
+305,Moore,OK
+306,Tokyo,Japan
+307,Braga,Portugal
+308,Richmond,VA
+309,Rockaway,NJ
+310,Lanham,MD
+311,Miami Beach,FL
+312,N New Hyde Park,NY
+313,Durham,NC
+314,Monmouth Junction,NJ
+315,Edison,NJ
+316,Rochester,NY
+317,West Windsor,NJ
+318,Memphis,TN
+319,Dover,DE
+320,Cranford,NJ
+321,Herndon,VA
+322,Duluth,GA
+323,Buffalo,NY
+324,Erdenheim,PA
+325,Calgary,Canada
+326,Wellesley,MA
+327,Holmdel,NJ
+328,New City,NY
+329,Fairfax,VA
+330,Mosta,Malta
+331,Alpharetta,GA
+332,Tuxedo Park,NY
+333,Gibsonia,PA
+334,Boston,MA
+335,LISBOA,Portugal
+336,Shepton Mallet,United Kingdom
+337,Westfield,IN
+338,Southfield,MI
+339,Albany,NY
+340,Durham,United Kingdom
+341,Garden City,NY
+342,South Salt Lake,NY
+343,Morrisville,NC
+344,Farmington Hills,MI
+345,Raleigh,NC
+346,Vaughan,Canada
+347,Temple,GA
+348,Greenwood Village,CO
+349,Huntsville,AL
+350,Springville,CA
+351,Cary,NC
+352,Schaumburg,IL
+353,Charleston,SC
+354,Mc Lean,VA
+355,Wilmington,NC
+356,Chennai,India
+357,Reston,VA
+358,Fort Monroe,VA
+359,Arlington,VA
+360,Sterling,VA
+361,South Jordan,NY
+362,Van Nuys,CA
+363,Vancouver,Canada
+364,Easton,MD
+365,Milton,WV
+366,Melbourne,Australia
+367,Sherman Oaks,CA
+368,Dana Point,CA
+369,Sacramento,CA
+370,Tarzana,CA
+371,West Roxbury,MA
+372,Seoul,South Korea
+373,Goleta,CA
+374,Bishnupur ,India
+375,Hyderabad,India
+376,Overland Park,KS
+377,Dayton,OH
+378,Falls Church,VA
+379,Williamsville,NY
+380,Noida,India
+381,Danbury,CT
+382,Bolton,CT
+383,Taipei,Taiwan
+384,Canoga Park,CA
+385,Boca Raton,FL
+386,Santa Barbara,CA
+387,San Clemente,CA
+388,Rosemont,IL
+389,Kennesaw,GA
+390,Fort Wayne,IN
+391,Langhorne,PA
+392,Park Ridge,IL
+393,Mount Prospect,IL
+394,Aliso Viejo,CA
+395,Hanover,MD
+396,Muscatine,IA
+397,Berea,OH
+398,East Thetford,VT
+399,KIRKLAND,Canada
+400,Ottawa,Canada
+401,New Haven,CT
+402,South Holland,IL
+403,Millersville,MD
+404,Detroit,MI
+405,Deerfield Beach,FL
+406,Saint Paul,MN
+407,Encinitas,CA
+408,Norcross,GA
+409,Livonia,MI
+410,Iowa City,IA
+411,Lincolnshire,IL
+412,Salisbury,NC
+413,Clinton,MD
+414,Ridgeland,MS
+415,Upland,CA
+416,Stans,Switzerland
+417,Stavanger,Norway
+418,Orem,NY
+419,Bengaluru,India
+420,Cypress,TX
+421,Greenville,SC
+422,Nashua,NH
+423,Fort Knox,KY
+424,Newport,RI
+425,Lombard,IL
+426,Lake Jackson,TX
+427,Carlsbad,CA
+428,North York,Canada
+429,Anchorage,AK
+430,SUNDERLAND,United Kingdom
+431,Portland,OR
+432,Canton,MI
+433,Springfield,MO
+434,Sanford,VA
+435,Reno,NV
+436,Nashville,TN
+437,Metuchen,NJ
+438,Honolulu,HI
+439,Moon Township,PA
+440,Cranbury,NJ
+441,Fort Lauderdale,FL
+442,Santa Ana,CA
+443,South Portland,ME
+444,Edmonton,Canada
+445,Chantilly,VA
+446,Woonsocket,RI
+447,Phila,PA
+448,Vienna,VA
+449,Basking Ridge,NJ
+450,Warrington,United Kingdom
+451,Smithfield,RI
+452,Salem,NH
+453,Princeton Junction,NJ
+454,Harleysville,PA
+455,Audubon,PA
+456,Farmington,CT
+457,Middleton,WI
+458,Chadds Ford,PA
+459,Linthicum,MD
+460,Miami,FL
+461,Brentford,United Kingdom
+462,Sparta,NJ
+463,Luxembourg,Luxembourg
+464,Ashburn,VA
+465,Milwaukee,WI
+466,Abingdon,United Kingdom
+467,Highland Park,IL
+468,Schaffhausen,Switzerland
+469,Plainfield,NJ
+470,Annapolis,MD
+471,Rusk,TX
+472,Tysons,VA
+473,Kotzebue,AK
+474,Catoosa,OK
+475,La Jolla,CA
+476,Mechanicsburg,PA
+477,Fenton,MI
+478,Hagerstown,MD
+479,Towanda,PA
+480,Germantown,MD
+481,Maryland Heights,MO
+482,Stafford,VA
+483,Bezons,France
+484,Nokia,Finland
+485,Hastings,MN
+486,Rockville,MD
+487,Norwalk,CT
+488,Red Bank,NJ
+489,Yakima,WA
+490,Utica,MI
+491,Winnebago,NE
+492,Mobile,AL
+493,Towson,MD
+494,Warwick,United Kingdom
+495,Flower Mound,TX
+496,Madison,WI
+497,Annapolis Junction,MD
+498,McKinney,TX
+499,Ann Arbor,MI
+500,Lisle,IL
+501,Tallassee,AL
+502,Aberdeen,United Kingdom
+503,Fort Smith,AR
+504,Rio de Janeiro,Brazil
+505,Natick,MA
+506,Morristown,NJ
+507,Walldorf,Germany
+508,North Chicago,IL
+509,Santa Cruz,CA
+510,Elk Grove,CA
+511,Brentwood,TN
+512,Gardanne,France
+513,Acton,MA
+514,Lawrenceville,NJ
+515,Hoover,AL
+516,Nicosia,Cyprus
+517,Allegan,MI
+518,Gainesville,VA
+519,Amsterdam,Netherlands
+520,Macquarie Park,Australia
+521,Mount Pleasant,SC
+522,Bradenton,FL
+523,Frankfurt am Main,Germany
+524,Des Moines,IA
+525,Eclepens,Switzerland
+526,Providence,RI
+527,Grand Prairie,TX
+528,Tulsa,OK
+529,Portsmouth,NH
+530,New Albany,OH
+531,Bonn,Germany
+532,Abbott Park,IL
+533,Old Bridge,NJ
+534,Coral Gables,FL
+535,Bridgewater,NJ
+536,Benicia,CA
+537,Arden,NC
+538,Cornelius,NC
+539,Hickory,NC
+540,New Delhi,India
+541,Guaynabo,PR
+542,Columbia,MD
+543,Concord,CA
+544,Brentwood,CA
+545,East Brunswick,NJ
+546,Chesterfield,MO
+547,Keswick,VA
+548,South Windsor,CT
+549,Minneapolis,MN
+550,Vienna,Austria
+551,Faridabad,India
+552,South Melbourne,Australia
+553,Pleasant Hill,CA
+554,Worthington,OH
+555,Feusisberg,Switzerland
+556,Edmond,OK
+557,Mishawaka,IN
+558,Moosic,PA
+559,Burnsville,MN
+560,Kyoto,Japan
+561,Tigard,OR
+562,Cooper City,FL
+563,Gilbert,AZ
+564,Rochester,MN
+565,Monroe,LA
+566,Lakeland,FL
+567,Aurora,IL
+568,Beaverton,OR
+569,West Des Moines,IA
+570,West Chester,OH

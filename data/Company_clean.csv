@@ -1,0 +1,796 @@
+0,Vera Institute of Justice,3.2,0,Nonprofit Organization,0
+1,Visiting Nurse Service of New York,3.8,0,Nonprofit Organization,1
+3,Celerity,4.1,0,Subsidiary or Business Segment,3
+4,FanDuel,3.9,0,Company - Private,4
+7,GNY Insurance Companies,3.7,0,Company - Private,7
+8,DMGT,4.0,0,Company - Public,8
+10,NYU Langone Health,4.0,0,Hospital,10
+12,Montefiore Medical,3.7,0,Nonprofit Organization,12
+13,Known,3.0,0,Company - Private,13
+14,Advisor Group,3.4,2,Company - Private,14
+17,NYSTEC,3.8,0,Nonprofit Organization,17
+18,"Education Development Center, Inc.",3.9,0,Nonprofit Organization,18
+22,Macquarie Group,3.3,0,Company - Public,22
+26,Duolingo,5.0,0,Company - Private,26
+30,Revel,3.6,3,Company - Private,30
+44,"Nesco Resource, LLC",2.9,0,Company - Private,44
+45,MediaMath,3.6,0,Company - Private,45
+47,Roku,3.9,0,Company - Public,47
+49,Citadel,3.8,0,Company - Private,49
+50,Xoriant Corporation,3.7,2,Company - Private,50
+52,"TSR, Inc.",3.6,4,Company - Public,52
+54,Fragomen Worldwide,3.2,0,Company - Private,54
+56,Real Capital Analytics,3.9,0,Company - Private,56
+57,Perficient,3.6,0,Company - Public,57
+58,Kforce,4.1,0,Company - Public,58
+59,Criteo,3.9,0,Company - Public,59
+61,Neuberger Berman,3.7,0,Company - Private,61
+63,Diverse Lynx,3.9,0,Company - Private,63
+64,eTeam Inc.,3.7,0,Company - Private,64
+70,"Discovery Communications, Inc.",3.5,0,Company - Public,70
+76,Mitchell Martin,4.1,0,Company - Private,76
+80,Praescient Analytics,3.1,0,Company - Private,80
+82,FINRA,3.4,0,Nonprofit Organization,82
+84,Jefferies,3.6,0,Company - Public,84
+85,RGP,4.1,0,Company - Public,85
+86,Tachyon Technologies,4.4,0,Company - Private,86
+87,Apex Systems,3.8,2,Subsidiary or Business Segment,87
+94,ektello,4.6,0,Company - Private,94
+95,"Premier, Inc.",3.0,0,Company - Public,95
+100,Reliable Software Resources,4.0,0,Company - Private,100
+104,Cowen,3.7,0,Company - Public,104
+105,Robert Half,3.5,0,Company - Public,105
+106,FJA-US Inc.,2.8,0,Subsidiary or Business Segment,106
+109,Wildlife Conservation Society,3.4,0,Nonprofit Organization,109
+110,Asembia,3.6,6,Company - Private,110
+115,"EDP World, Inc.",3.5,0,Company - Private,115
+117,"Staffigo Technical Services, LLC",5.0,0,Company - Private,117
+120,Huxley,3.3,0,Company - Private,120
+123,Child Mind Institute,3.2,0,Nonprofit Organization,123
+127,William Hill US,2.7,2,Company - Public,127
+128,Rockstar Games,4.1,0,Subsidiary or Business Segment,128
+130,Decision Resources Group,3.1,0,Subsidiary or Business Segment,130
+133,Columbia University,3.9,0,College / University,133
+134,Precision technologies corp,4.2,0,Company - Private,134
+136,Cuny Research Foundation,4.2,0,Nonprofit Organization,136
+141,Mount Sinai Health System,3.4,0,Hospital,141
+143,"Halcyon Solutions, Inc.",3.3,0,Company - Private,143
+145,COUNCIL ON ACCREDITATION,3.8,0,Nonprofit Organization,145
+152,APCO Worldwide,3.4,0,Company - Private,152
+153,Brooklyn Community Services,2.5,3,Nonprofit Organization,153
+157,Workforce Logiq,3.6,10,Company - Private,157
+158,Cross River Bank,3.3,11,Company - Private,158
+164,22nd Century Technologies,3.7,0,Company - Private,164
+166,Software Guidance & Assistance,3.7,2,Company - Private,166
+168,TSR Consulting,3.6,0,Company - Public,168
+170,"Take-Two Interactive Software, Inc.",3.7,0,Company - Public,170
+183,CASES,3.5,0,Nonprofit Organization,183
+186,Acacia Network,3.3,13,Nonprofit Organization,186
+189,"TSR, Inc.",3.6,2,Company - Public,189
+192,Eclaro,3.4,0,Company - Private,192
+194,Source of Future Technology Inc,4.2,0,Company - Private,194
+196,Brink's,2.7,0,Company - Public,196
+197,Seven Seven Softwares,3.1,8,Company - Public,197
+200,Mitchell Martin,4.1,2,Company - Private,200
+201,RMS Computer Corporation,3.0,2,Company - Private,201
+203,2U,3.5,0,Company - Public,203
+205,Mount Sinai Medical Center,3.1,0,Nonprofit Organization,205
+207,IPRO,3.0,15,Nonprofit Organization,207
+208,CASES,3.2,0,Company - Public,208
+209,Brown Brothers Harriman,3.3,0,Company - Private,209
+223,Integrated Resources,3.1,0,Company - Private,223
+225,Avani Technology Solutions,4.5,0,Company - Private,225
+228,V R Della Infotech Inc,4.1,10,Company - Private,228
+229,New York Times,3.8,0,Company - Public,229
+232,LanceSoft Inc,3.8,0,Company - Private,232
+237,Informa Intelligence,3.8,0,Company - Public,237
+239,RMS Computer,3.0,2,Company - Private,239
+242,SAT Healthcare,3.5,0,Company - Private,242
+243,American CyberSystems,4.0,0,Company - Private,243
+244,M&T Bank Corporation,3.3,0,Company - Public,244
+248,CMI/Compas,3.6,0,Company - Private,248
+249,AbleTo,4.3,0,Company - Private,249
+250,Eagle Investment Systems,3.7,0,Subsidiary or Business Segment,250
+251,Kforce,4.1,16,Company - Public,251
+252,Hikma Pharmaceuticals,3.3,18,Company - Public,252
+257,VNA Health Group,3.3,19,Nonprofit Organization,257
+258,Hexacorp,3.4,0,Company - Private,258
+259,Informa,3.2,0,Company - Public,259
+261,VIVA USA INC,4.6,20,Company - Private,261
+266,Saratoga Medical Center,4.1,0,Company - Private,266
+267,YAI/NIPD Network,3.1,0,Nonprofit Organization,267
+269,"Competent Systems, Inc",3.7,2,Company - Private,269
+270,Genpact,3.5,0,Company - Public,270
+274,EmblemHealth,2.4,0,Nonprofit Organization,274
+276,National Kidney Foundation,3.2,0,Nonprofit Organization,276
+281,"Intercontinental Exchange, Inc.",2.8,0,Company - Public,281
+282,"8K Miles Software Services, Inc.",3.7,0,Company - Public,282
+283,VTS,4.2,0,Company - Private,283
+285,Robert Half,3.5,2,Company - Public,285
+286,Village Care,2.0,0,Nonprofit Organization,286
+287,Quest Diagnostics,3.3,22,Company - Public,287
+292,National Grid USA,3.6,3,Company - Public,292
+294,Aegis Media,2.8,0,Subsidiary or Business Segment,294
+300,Reliable Software Resources,4.0,6,Company - Private,300
+302,Plymouth Rock Assurance,3.4,25,Company - Private,302
+304,Metroplus Health Plan,2.7,0,Nonprofit Organization,304
+305,Avani Technology Solutions,4.5,27,Company - Private,305
+313,CyberCoders,4.2,29,Subsidiary or Business Segment,313
+316,RWJBarnabas Health,3.7,23,Nonprofit Organization,316
+323,Norgate Technology Inc,3.3,2,Company - Private,323
+326,Sharp Electronics Corporation,3.9,33,Company - Public,326
+329,Avani Technology Solutions,4.5,3,Company - Private,329
+363,Robert Half,3.5,42,Company - Public,363
+365,"Public Health Foundation Enterprises, In",3.3,44,Nonprofit Organization,365
+366,USfalcon,4.3,45,Company - Private,366
+367,Hampton University,2.5,45,College / University,367
+368,Collins Consulting Inc,2.7,46,Company - Private,368
+369,Patient Advocate Foundation,2.7,45,Nonprofit Organization,369
+370,"Staffigo Technical Services, LLC",5.0,45,Company - Private,370
+371,"Orbis, Inc.",4.9,47,Company - Private,371
+377,Booz Allen Hamilton,3.8,50,Company - Public,377
+379,"Epsilon Systems Solutions, Inc.",3.5,46,Company - Private,379
+380,Oasis Systems,3.8,45,Company - Private,380
+384,Liberty Source,3.5,45,Company - Private,384
+385,"Oasis Systems, LLC",3.8,45,Company - Private,385
+386,National Capitol Contracting (NCC),3.2,46,Company - Private,386
+388,Analytical Mechanics Associates,3.5,45,Company - Private,388
+389,"GStek, Inc.",3.2,53,Company - Private,389
+392,AXSEUM Inc,3.1,54,Company - Private,392
+394,CACI International,3.6,46,Company - Public,394
+396,FacilitySource,3.6,48,Company - Public,396
+397,Universal Consulting Services,3.3,46,Company - Private,397
+398,"Universal Consulting Services, Inc.",3.3,46,Company - Private,398
+399,"Staffigo Technical Services, LLC",5.0,55,Company - Private,399
+400,University of Florida,4.3,55,College / University,400
+401,AvMed Health Plans,3.1,55,Nonprofit Organization,401
+402,Shands Jacksonville,3.3,56,Nonprofit Organization,402
+403,Shands Jacksonville,3.3,55,Nonprofit Organization,403
+404,Stamps.com,3.1,57,Company - Public,404
+406,Neustar,3.7,59,Company - Private,406
+407,Wellth Inc.,5.0,59,Company - Private,407
+409,"Staffigo Technical Services, LLC",5.0,59,Company - Private,409
+411,First Professional Services,5.0,59,Subsidiary or Business Segment,411
+413,"ConsultNet, LLC",4.3,62,Company - Private,413
+415,Acumen,3.2,59,Company - Private,415
+416,HireTalent,4.5,59,Company - Private,416
+421,ICONMA,3.6,63,Company - Private,421
+425,Cedars-Sinai,3.9,59,Nonprofit Organization,425
+427,Robert Half,3.5,57,Company - Public,427
+435,Swinerton Builders,4.1,59,Company - Private,435
+436,"Relevante, Inc.",3.1,59,Company - Private,436
+437,"iSpace, Inc",3.7,64,Company - Private,437
+442,Hulu,3.8,58,Company - Private,442
+444,University of Southern California,4.2,59,College / University,444
+445,Delmarva Foundation,3.1,68,Nonprofit Organization,445
+450,Electronic Arts,3.9,59,Company - Public,450
+451,Capital Group,3.9,59,Company - Private,451
+453,AIDS Healthcare Foundation,4.7,59,Nonprofit Organization,453
+454,LACERA,3.5,67,Government,454
+457,Computershare,3.1,57,Company - Public,457
+460,Cedars-Sinai,3.9,72,Nonprofit Organization,460
+468,Tillster,3.3,59,Company - Private,468
+472,"Netflix, Inc.",3.9,59,Company - Public,472
+474,Tarzana,3.0,74,Company - Private,474
+475,STAND 8 Technology Services,3.9,59,Company - Private,475
+476,Internet Brands,3.4,59,Company - Private,476
+477,Robert Half,3.5,59,Company - Public,477
+482,Activision Blizzard,3.4,57,Company - Public,482
+487,Tecolote Research,3.8,57,Company - Private,487
+493,"Internet Brands, Inc.",3.4,59,Company - Private,493
+495,Kforce,4.1,59,Company - Public,495
+499,Genuent,3.5,59,Company - Private,499
+501,The Wonderful Company LLC,3.6,59,Company - Private,501
+502,Akraya Inc.,4.6,59,Company - Private,502
+506,Mercury Insurance Group,3.4,76,Company - Public,506
+509,Ajilon,3.6,78,Company - Public,509
+511,Prosum,4.0,59,Company - Private,511
+513,Saicon Consultants Inc,3.3,62,Company - Private,513
+516,KORE1 Technologies,4.9,58,Company - Private,516
+521,"Aviana Global Technologies, Inc",4.2,59,Company - Private,521
+531,"U.S. Auto Parts Network, Inc.",3.4,82,Company - Public,531
+532,MyLife.com,3.1,59,Company - Private,532
+538,Tech Air,3.9,73,Company - Private,538
+540,Midcom,3.5,85,Company - Private,540
+541,Odesus,3.8,62,Company - Private,541
+545,Airgas,3.8,73,Company - Public,545
+546,Apollo Global Management,3.0,57,Company - Public,546
+550,KIPP SoCal Public Schools,3.3,59,Nonprofit Organization,550
+551,Genuent,3.5,64,Company - Private,551
+552,SCAN Health Plan,3.2,73,Nonprofit Organization,552
+556,Pacific Clinics,2.9,81,Nonprofit Organization,556
+563,AppleOne,3.3,78,Company - Private,563
+567,Information Technology Partners,2.8,62,Company - Private,567
+568,Providence Health & Services,3.4,61,Nonprofit Organization,568
+572,PIH Health,3.6,88,Nonprofit Organization,572
+578,Wintrust Financial,3.9,90,Company - Public,578
+580,Riskonnect,3.7,90,Company - Private,580
+581,Centric Consulting,5.0,90,Company - Private,581
+583,Kelly,3.4,91,Company - Public,583
+584,Kelly,3.4,90,Company - Public,584
+587,Allscripts,3.3,90,Company - Public,587
+588,Circle Logistics,3.7,90,Company - Private,588
+589,University of Chicago,4.0,90,College / University,589
+590,Mondo,3.9,90,Company - Private,590
+592,Swoon,4.6,91,Company - Private,592
+594,Tempus,3.3,90,Company - Private,594
+595,Feeding America,3.3,90,Nonprofit Organization,595
+596,CRS Group,4.7,90,Company - Private,596
+597,Peterson Technology Partners,4.3,90,Contract,597
+598,BMO,3.2,90,Subsidiary or Business Segment,598
+599,AppleOne,3.3,91,Company - Private,599
+600,Robert Bosch Tool Corporation,3.1,92,Subsidiary or Business Segment,600
+604,Milliman,3.8,90,Company - Private,604
+606,UST Global,4.2,90,Company - Private,606
+610,Ann & Robert H. Lurie Children's Hospital of Chicago,3.7,90,Nonprofit Organization,610
+611,"TEKsystems, Inc",3.9,90,Subsidiary or Business Segment,611
+613,HNI,3.4,90,Company - Public,613
+614,SkySource Solutions,4.1,91,Company - Public,614
+615,"Staffigo Technical Services, LLC",5.0,90,Company - Private,615
+616,Flexport,3.5,90,Company - Private,616
+624,Diverse Lynx,3.9,90,Company - Private,624
+627,VIVA USA INC,4.6,90,Company - Private,627
+630,Braviant Holdings,4.8,90,Company - Private,630
+633,Rush University Medical Center,3.9,90,Hospital,633
+634,TechUSA,2.7,90,Company - Private,634
+635,Alliant Credit Union,3.4,95,Nonprofit Organization,635
+641,Invenergy,3.8,90,Company - Private,641
+646,BDP International,3.0,90,Company - Private,646
+647,Numerator,3.9,90,Company - Private,647
+648,Empire Today,3.7,97,Company - Private,648
+650,"Fast Switch, LTD",4.3,98,Company - Private,650
+652,Epiq Systems,3.6,90,Company - Private,652
+654,PEAK6 Investments,2.9,90,Company - Private,654
+655,ABS Graphics,2.5,100,Company - Private,655
+657,Kforce,4.1,101,Company - Public,657
+658,The Chicago Lighthouse,3.3,90,Company - Private,658
+662,ALERE,2.8,90,Company - Public,662
+663,Kelly Mitchell Group,3.6,91,Company - Private,663
+665,"TreeHouse Foods, Inc.",2.5,103,Company - Public,665
+666,NJF Global Holdings,4.2,90,Company - Private,666
+667,Net2Source,3.2,98,Company - Private,667
+669,HIMSS,2.9,90,Nonprofit Organization,669
+672,Northern Trust,3.7,90,Company - Public,672
+674,LEARN Charter School,4.1,90,School / School District,674
+675,BankFinancial Corporation,2.5,91,Company - Public,675
+676,Avani Technology Solutions,4.5,90,Company - Private,676
+680,Nuveen,3.3,90,Company - Private,680
+681,Maine Pointe,4.5,90,Company - Private,681
+685,Softpath System LLC,3.9,90,Company - Private,685
+686,Trinity Health,3.3,104,Nonprofit Organization,686
+687,Motorola Solutions,3.7,90,Company - Public,687
+690,Signode,3.2,106,Subsidiary or Business Segment,690
+693,Robert Half,3.5,90,Company - Public,693
+694,Jobot,5.0,90,Company - Private,694
+695,Square One Resources,4.3,90,Company - Private,695
+696,Esquire Recruiting,4.6,90,Company - Private,696
+699,Steiner Electric Co,3.0,107,Company - Private,699
+705,Metropolitan Family Services,3.2,90,Company - Private,705
+709,RiverPoint,2.8,90,Company - Private,709
+711,22nd Century Technologies,3.7,90,Company - Private,711
+712,RiverPoint,3.8,90,Company - Private,712
+716,N.F. Smith & Associates,4.1,109,Company - Private,716
+717,Virtus Partners LLC,2.8,109,Company - Private,717
+720,Crown Castle USA Inc,3.6,109,Company - Public,720
+722,Mondo,3.9,109,Company - Private,722
+724,Harris County,3.4,109,Government,724
+727,Horne LLP,3.1,109,Company - Private,727
+729,McLane Global,4.0,109,Company - Private,729
+731,Kelsey-Seybold Medical Group,3.6,111,Private Practice / Firm,731
+732,Pareto Systems,4.3,110,Company - Private,732
+735,Houston-Galveston Area Council,2.5,109,Government,735
+741,"Avetta, LLC",3.9,109,Company - Private,741
+743,InvenTech Info,4.8,109,Company - Private,743
+745,"Staffigo Technical Services, LLC",5.0,109,Company - Private,745
+747,HealthHelp,2.5,109,Subsidiary or Business Segment,747
+749,GeoDigital,2.4,109,Company - Private,749
+752,ICF,3.5,109,Company - Public,752
+753,G.A.S. Global,3.0,109,Company - Private,753
+756,Robert Half,3.5,109,Company - Public,756
+762,Yochana,2.9,109,Company - Private,762
+764,TechUSA,2.7,113,Company - Private,764
+766,Kelsey Seybold Clinic,3.6,111,Private Practice / Firm,766
+767,Harris Health System,3.4,109,Government,767
+772,"Infomerica, Inc",4.0,109,Company - Private,772
+773,Servient,4.0,109,Company - Private,773
+775,Icon Consultants,3.8,109,Company - Private,775
+776,UTHealth Houston,4.0,109,College / University,776
+779,Crawford Thomas Recruiting,5.0,109,Company - Private,779
+780,Jobot,5.0,112,Company - Private,780
+782,eTeam Inc.,3.7,109,Company - Private,782
+783,LanceSoft Inc,3.8,109,Company - Private,783
+785,Professional Enrollment Concepts,3.3,109,Company - Private,785
+786,Texas Dow Employees Credit Union,3.1,112,Nonprofit Organization,786
+787,Harris County Appraisal District,2.2,109,Government,787
+789,Integrate,4.4,116,Company - Private,789
+790,Desert Financial Credit Union,3.2,116,Company - Public,790
+791,Corbins Electric,3.7,116,Company - Private,791
+792,"The Judge Group, Inc.",3.5,116,Company - Private,792
+793,Discount Tire,4.0,117,Company - Private,793
+794,Robert Half,3.5,116,Company - Public,794
+795,"TekCom Resources, Inc.",4.9,116,Company - Private,795
+796,Viasat,4.1,116,Company - Public,796
+797,National Education Partners,4.6,117,Company - Private,797
+800,Modis,3.2,116,Subsidiary or Business Segment,800
+802,Diverse Lynx,3.9,115,Company - Private,802
+803,FAMILY INVOLVEMENT CENTER,3.6,116,Nonprofit Organization,803
+805,ON Semiconductor,3.6,116,Company - Public,805
+806,Charles Schwab,3.6,116,Company - Public,806
+809,Alaska USA,3.4,118,Other Organization,809
+810,The Paragon Group,2.9,117,Company - Public,810
+815,Arizona State University,4.3,115,College / University,815
+816,PK,3.6,116,Company - Private,816
+817,Mondo,3.9,116,Company - Private,817
+818,IntraEdge,3.8,115,Company - Private,818
+819,"Circle K Stores, Inc.",2.9,115,Company - Public,819
+820,Shamrock Foods,3.4,116,Company - Private,820
+822,Infotree Service Inc,3.7,119,Company - Private,822
+823,O'Reilly Automotive,3.1,116,Company - Public,823
+829,Nucleusteq,5.0,116,Company - Private,829
+831,Strategic Systems,4.5,115,Company - Private,831
+834,Efinancial,3.5,115,Company - Private,834
+839,Atos Syntel Inc.,3.5,116,Subsidiary or Business Segment,839
+840,Diverse Lynx,3.9,116,Company - Private,840
+843,Mastech Digital,4.5,116,Company - Public,843
+850,Signature Consultants,3.6,119,Company - Private,850
+853,"The Judge Group, Inc.",3.5,115,Company - Private,853
+854,First American Financial Corporation,3.4,117,Company - Public,854
+858,Stantec,3.7,119,Company - Public,858
+860,Crisis Response Network,3.8,115,Nonprofit Organization,860
+862,Kforce,4.1,119,Company - Public,862
+863,Kineticom,4.1,119,Company - Private,863
+865,GTN Technical Staffing,4.0,115,Company - Private,865
+866,"AOC Solutions, Inc.",3.8,121,Company - Private,866
+869,Avani Technology Solutions,4.5,117,Company - Private,869
+871,TransPerfect,2.8,115,Company - Private,871
+873,Greenphire,3.6,122,Company - Private,873
+875,United BioSource,2.3,124,Other Organization,875
+877,Community Behavioral Health,3.6,126,Company - Private,877
+879,Ampcus Incorporated,3.9,126,Company - Private,879
+880,Mondo,3.9,127,Company - Private,880
+882,Mondo,3.9,128,Company - Private,882
+884,"Staffigo Technical Services, LLC",5.0,126,Company - Private,884
+886,"Tetra Tech, Inc.",3.7,126,Company - Public,886
+888,"The Judge Group, Inc.",3.5,130,Company - Private,888
+889,Apex Systems,3.8,126,Subsidiary or Business Segment,889
+890,"Micro-Data Systems, Inc.",4.2,126,Company - Private,890
+893,Collabera,4.1,126,Company - Private,893
+894,Mondo,3.9,131,Company - Private,894
+900,Robert Half,3.5,126,Company - Public,900
+901,IntegriChain,3.2,126,Company - Private,901
+903,AmeriHealth Caritas,3.1,126,Company - Private,903
+907,Avantor,2.4,132,Company - Public,907
+914,Dextro Software Systems,3.5,135,Company - Private,914
+916,TechUSA,2.7,126,Company - Private,916
+917,Mondo,3.9,126,Company - Private,917
+920,"Innovative Development, LLC",3.8,136,Company - Private,920
+924,"Genuent Global, LLC",3.5,134,Company - Private,924
+926,CHOP,3.7,126,Nonprofit Organization,926
+928,ORS Partners,4.0,139,Company - Private,928
+930,"Zachary Piper Solutions, LLC",3.9,129,Company - Private,930
+931,Infinity Consulting Solutions,3.4,127,Company - Private,931
+934,"iTech Solutions, Inc",3.8,141,Company - Private,934
+938,TeamSoft,4.7,134,Company - Private,938
+939,Freedom Mortgage,4.2,143,Company - Private,939
+940,"Computer Enterprises, Inc.",3.5,126,Company - Private,940
+941,Weston Solutions Inc.,3.5,142,Company - Private,941
+942,McGrath Systems,3.7,145,Company - Private,942
+945,Kforce,4.1,127,Company - Public,945
+949,Contemporary Staffing Solutions,4.4,126,Company - Private,949
+950,The Judge Group,3.5,134,Company - Private,950
+952,Micro-Data Systems Inc.,4.2,126,Company - Private,952
+953,Avantor,2.4,134,Company - Public,953
+954,Tetra Tech,3.7,126,Company - Public,954
+956,NextGen Global Resources LLC,4.3,126,Subsidiary or Business Segment,956
+957,The Judge Group,3.5,148,Company - Private,957
+958,amerihealth,3.7,126,Subsidiary or Business Segment,958
+962,Eurofins,3.4,150,Company - Private,962
+963,Freedom Mortgage,4.2,151,Company - Private,963
+966,Diverse Lynx,3.9,128,Company - Private,966
+968,Forfeiture Support Associates,2.8,126,Company - Private,968
+970,SRG Woolf,4.6,122,Company - Private,970
+972,Trillium Solutions Group,4.8,129,Private Practice / Firm,972
+974,The Judge Group,3.5,127,Company - Private,974
+976,"Staffigo Technical Services, LLC",5.0,127,Company - Private,976
+980,Fox Chase Cancer Center,4.0,126,Nonprofit Organization,980
+983,CYNET SYSTEMS,4.0,153,Company - Private,983
+984,Integrated Resources,3.1,153,Company - Private,984
+986,Indotronix International Corporation,3.9,153,Company - Private,986
+987,Diverse Lynx,3.9,153,Company - Private,987
+988,Huntington Ingalls Industries,3.7,153,Company - Public,988
+991,Vantage Bank Texas,3.4,153,Company - Private,991
+996,NJVC,2.8,153,Company - Private,996
+998,"Staffigo Technical Services, LLC",5.0,153,Company - Private,998
+999,"Amyx, Inc.",4.0,153,Company - Private,999
+1001,HCL Technologies Ltd.,3.5,153,Company - Public,1001
+1002,CDO Technologies Inc,3.3,153,Company - Private,1002
+1004,Kforce,4.1,153,Company - Public,1004
+1005,PETCO,2.9,153,Company - Private,1005
+1006,eTeam Inc.,3.7,153,Company - Private,1006
+1007,LMI,4.0,153,Nonprofit Organization,1007
+1008,CAMRIS International,4.0,153,Company - Private,1008
+1013,Akima Management Services,3.3,153,Company - Private,1013
+1016,Spectrum Comm,3.8,154,Company - Private,1016
+1017,Peyton Resource Group,3.9,153,Company - Private,1017
+1020,Strategic Staffing Solutions,3.1,153,Contract,1020
+1021,CACI International,3.6,156,Company - Public,1021
+1022,Midland Credit Management,3.3,156,Subsidiary or Business Segment,1022
+1024,HealthStream,3.0,156,Company - Public,1024
+1026,22nd Century Technologies,3.7,156,Company - Private,1026
+1027,University of California,4.2,156,College / University,1027
+1030,Client Solution Architects,3.4,156,Company - Private,1030
+1032,"Staffigo Technical Services, LLC",5.0,156,Company - Private,1032
+1033,Encore Capital Group,3.2,156,Company - Public,1033
+1035,Axos Bank,3.4,156,Company - Public,1035
+1038,Stem,3.2,156,Company - Private,1038
+1039,Tandem Diabetes,3.8,156,Company - Public,1039
+1040,Illumina,3.9,156,Company - Public,1040
+1041,Forfeiture Support Associates,2.8,156,Company - Private,1041
+1045,"Dexcom, Inc.",3.5,156,Company - Public,1045
+1047,Vertex Pharmaceuticals,3.3,156,Company - Public,1047
+1048,Kelly,3.4,156,Company - Public,1048
+1050,Web Shop Manager,4.2,156,Company - Private,1050
+1052,Intuit,4.4,156,Company - Public,1052
+1058,Russell Tobin & Associates,3.5,156,Subsidiary or Business Segment,1058
+1060,MedImpact,2.5,156,Company - Private,1060
+1062,Sycuan Casino,3.3,158,Company - Private,1062
+1063,California State University,4.1,156,College / University,1063
+1064,"Sunrise Systems, Inc.",3.7,156,Company - Private,1064
+1066,The Carrera Agency,4.9,156,Company - Private,1066
+1070,SBG Techology Solutions,3.7,156,Company - Private,1070
+1071,"Insight Enterprises, Inc.",4.1,159,Company - Public,1071
+1072,Harris Computer,4.3,160,Subsidiary or Business Segment,1072
+1074,Delmarva Foundation,3.1,162,Nonprofit Organization,1074
+1077,Mondo,3.9,162,Company - Private,1077
+1080,The Richards Group,3.7,162,Company - Private,1080
+1083,"InfoVision, Inc.",4.4,162,Company - Private,1083
+1088,"The Judge Group, Inc.",3.5,163,Company - Private,1088
+1091,Match Group,2.8,162,Company - Private,1091
+1092,Hilltop Holdings,2.9,164,Company - Public,1092
+1094,"Staffigo Technical Services, LLC",5.0,162,Company - Private,1094
+1097,Diversant LLC,3.8,162,Company - Private,1097
+1098,Dallas ISD,3.3,162,School / School District,1098
+1101,Kforce,4.1,162,Company - Public,1101
+1102,Financial Additions,4.6,162,Company - Private,1102
+1103,Dallas Independent School District,3.3,162,School / School District,1103
+1104,First American Financial Corporation,3.4,164,Company - Public,1104
+1107,VITALWARE LLC,3.8,162,Company - Private,1107
+1109,Kubota Tractor,3.6,165,Subsidiary or Business Segment,1109
+1110,Trinity Industries,2.9,162,Company - Public,1110
+1113,Federal Reserve Bank of Richmond,3.6,162,Nonprofit Organization,1113
+1116,Atmos Energy Corp.,3.8,162,Company - Public,1116
+1118,North Central Texas Council of Governments,2.6,161,Nonprofit Organization,1118
+1122,Apex Systems,3.8,164,Subsidiary or Business Segment,1122
+1123,RealPage,2.8,163,Company - Public,1123
+1124,Mary Kay,3.9,166,Company - Private,1124
+1127,Apptricity Corporation,4.4,164,Company - Private,1127
+1128,Mitchell Martin,4.1,159,Company - Private,1128
+1133,Ho Chunk,2.8,161,Company - Private,1133
+1134,Precision technologies corp,4.2,159,Company - Private,1134
+1136,Mosaic Sales Solutions,3.4,164,Company - Private,1136
+1138,Prudent Technologies & Consulting,4.2,165,Company - Private,1138
+1142,PROLIM Global Corporation,3.4,162,Company - Private,1142
+1143,ADT,3.1,164,Company - Public,1143
+1144,"Pinnacle Technical Resources, Inc.",3.4,162,Company - Private,1144
+1146,eDataForce consulting LLC,3.4,162,Company - Private,1146
+1148,"ServiceLink, a Black Knight Company",2.5,162,Subsidiary or Business Segment,1148
+1154,University of Texas at Arlington,4.2,161,College / University,1154
+1157,HCL America Inc.,3.5,159,Company - Public,1157
+1158,Colfax Corporation,2.1,162,Company - Public,1158
+1160,ServiceLink,2.5,162,Subsidiary or Business Segment,1160
+1161,Onyx CenterSource,3.6,162,Company - Private,1161
+1165,eTeam Inc.,3.7,164,Company - Private,1165
+1167,Mindteck,3.3,171,Company - Public,1167
+1169,Analytical Mechanics Associates,3.5,162,Company - Private,1169
+1175,Horn Solutions Inc.,4.2,162,Company - Private,1175
+1176,DJO Global,3.0,162,Subsidiary or Business Segment,1176
+1177,Kforce,4.1,159,Company - Public,1177
+1185,Molex,3.1,162,Company - Private,1185
+1186,Net2Source,3.2,163,Company - Private,1186
+1187,ClientSolv Technologies,3.3,160,Company - Private,1187
+1188,Diverse Lynx,3.9,159,Company - Private,1188
+1192,Employbridge,3.5,164,Company - Private,1192
+1193,FirstAmerica,3.2,161,Company - Private,1193
+1194,ArcBest,3.6,159,Company - Public,1194
+1195,Peyton Resource Group (PRG),3.9,159,Company - Private,1195
+1197,Apex Systems,3.8,159,Subsidiary or Business Segment,1197
+1198,Frontend Arts,4.5,164,Company - Private,1198
+1202,OSI Engineering,4.5,173,Company - Private,1202
+1203,NVIDIA,4.6,174,Company - Public,1203
+1204,Risk Management Solutions (RMS),3.9,173,Company - Private,1204
+1205,LeanData,4.0,174,Company - Private,1205
+1206,Alteryx,3.3,175,Company - Public,1206
+1207,Bandai Namco Entertainment America,3.1,174,Subsidiary or Business Segment,1207
+1208,Kelly,3.4,176,Company - Public,1208
+1209,Tesla Motors,3.4,177,Company - Public,1209
+1211,IntraEdge,3.8,179,Company - Private,1211
+1212,Connor Group,4.0,174,Company - Private,1212
+1216,ICONMA,3.6,176,Company - Private,1216
+1221,"TalentBurst, Inc.",3.9,176,Company - Private,1221
+1224,Zipongo,4.0,178,Company - Private,1224
+1226,Netflix,3.9,183,Company - Public,1226
+1228,"Iconma, L.L.C.",3.6,182,Company - Private,1228
+1229,Diverse Lynx,3.9,178,Company - Private,1229
+1231,"Netflix, Inc.",3.9,183,Company - Public,1231
+1234,"PDS Tech, Inc.",3.8,176,Company - Private,1234
+1235,Power Integrations,3.8,178,Company - Public,1235
+1236,Infotree Service Inc,3.7,178,Company - Private,1236
+1237,Accounting Principals,4.0,178,Company - Public,1237
+1238,Collabera,4.1,182,Company - Private,1238
+1240,Crystal Equation,3.9,179,Company - Private,1240
+1241,Frontend Arts,4.5,178,Company - Private,1241
+1243,Poshmark,4.8,175,Company - Private,1243
+1244,Artech LLC,3.9,182,Company - Private,1244
+1246,Zolon Tech Solutions Inc.,4.0,176,Company - Private,1246
+1247,"Staffigo Technical Services, LLC",5.0,178,Company - Private,1247
+1254,Exact Sciences Corporation,4.0,175,Company - Public,1254
+1257,"John Wiley & Sons, Inc.",3.3,183,Company - Public,1257
+1258,Cadence Design Systems,4.1,178,Company - Public,1258
+1265,CyberCoders,4.2,175,Subsidiary or Business Segment,1265
+1268,"TalentBurst, Inc.",3.9,181,Company - Private,1268
+1270,"US Tech Solutions, Inc",3.7,182,Company - Private,1270
+1271,Russell Tobin & Associates,3.5,176,Subsidiary or Business Segment,1271
+1273,Milestone Technologies Inc.,3.2,177,Company - Private,1273
+1275,Robert Half,3.5,182,Company - Public,1275
+1276,Technosoft Corporation,3.8,178,Company - Private,1276
+1279,SRA OSS,3.3,178,Company - Private,1279
+1283,Apex Systems,3.8,179,Subsidiary or Business Segment,1283
+1292,Tachyon Technologies LLC,4.4,178,Company - Private,1292
+1293,Mackin,3.4,182,Company - Private,1293
+1294,Lark Health,3.9,181,Company - Private,1294
+1296,Splunk,4.1,178,Company - Public,1296
+1298,Vaco,3.3,180,Company - Private,1298
+1299,Intuit,4.4,181,Company - Public,1299
+1300,Stanford Health Care,3.9,180,Hospital,1300
+1301,Cepheid,3.3,182,Company - Private,1301
+1305,Enquero Inc,3.7,188,Company - Private,1305
+1307,DynPro Inc.,3.5,178,Company - Private,1307
+1309,eHealth,3.7,174,Company - Public,1309
+1310,Centrillion,2.2,180,Company - Private,1310
+1313,eTeam Inc.,3.7,181,Company - Private,1313
+1314,SOFTHQ INC,4.0,182,Company - Private,1314
+1317,Fortinet,4.5,182,Company - Public,1317
+1319,Akorbi,3.5,181,Company - Private,1319
+1322,"ICONMA, LLC",3.6,175,Company - Private,1322
+1325,"Cadence Design Systems, Inc.",4.1,178,Company - Public,1325
+1327,Optima Global Solutions,3.9,178,Company - Private,1327
+1329,Alexza Pharmaceuticals,3.7,181,Company - Private,1329
+1331,Ampcus Incorporated,3.9,178,Company - Private,1331
+1333,Yochana,2.9,181,Company - Private,1333
+1337,Bill.Com,3.6,180,Company - Public,1337
+1338,Diverse Lynx,3.9,174,Company - Private,1338
+1339,Infotree Service Inc,3.7,180,Company - Private,1339
+1342,Pushnami,4.6,190,Company - Private,1342
+1343,MedSeek,2.6,190,Company - Private,1343
+1345,Assembly,2.6,190,Subsidiary or Business Segment,1345
+1350,Zynga,4.1,190,Company - Public,1350
+1352,KGS,4.7,190,Company - Private,1352
+1355,CYNET SYSTEMS,4.0,190,Company - Private,1355
+1356,Assembly,3.4,190,Company - Public,1356
+1357,Lightspeed Systems,4.3,190,Company - Private,1357
+1359,"Staffigo Technical Services, LLC",5.0,190,Company - Private,1359
+1360,GroupBy Inc.,3.2,190,Company - Private,1360
+1363,Robert Half,3.5,190,Company - Public,1363
+1364,Facebook,4.5,190,Company - Public,1364
+1369,Q2eBanking,3.2,190,Company - Public,1369
+1370,Allegan General Hospital,3.7,190,Company - Private,1370
+1375,NVIDIA,4.6,190,Company - Public,1375
+1380,Bazaarvoice,3.7,190,Company - Private,1380
+1381,Gemalto,3.3,190,Company - Public,1381
+1385,Sonic Healthcare USA,2.7,190,Company - Public,1385
+1386,Ascension,3.3,190,Nonprofit Organization,1386
+1388,ISHPI Information Technologies,3.5,190,Company - Private,1388
+1389,University Federal Credit Union,3.5,190,Nonprofit Organization,1389
+1390,Sense Corp,3.8,190,Company - Private,1390
+1391,Booz Allen Hamilton,3.8,190,Company - Public,1391
+1392,22nd Century Technologies,3.7,190,Company - Private,1392
+1394,Octo Consulting Group,3.9,190,Company - Private,1394
+1395,Seven Seven Softwares,3.1,190,Company - Public,1395
+1401,GasPedal,3.5,190,Company - Private,1401
+1408,The Judge Group,3.5,192,Company - Private,1408
+1410,CSI Tech Inc.,3.0,194,Company - Private,1410
+1411,Robert Half,3.5,194,Company - Public,1411
+1413,Software Guidance & Assistance,3.7,194,Company - Private,1413
+1414,"Staffigo Technical Services, LLC",5.0,194,Company - Private,1414
+1420,Kemper,2.9,194,Company - Public,1420
+1423,Diverse Lynx,3.9,194,Company - Private,1423
+1426,CornerStone Staffing,3.8,195,Company - Private,1426
+1428,Bell Helicopter,3.9,195,Subsidiary or Business Segment,1428
+1429,E Business International,3.1,195,Company - Private,1429
+1430,"InfoVision, Inc.",4.4,164,Company - Private,1430
+1433,GM Financial,2.9,195,Company - Public,1433
+1436,Prudent Technologies & Consulting,4.2,195,Company - Private,1436
+1437,System Soft Technologies,4.8,195,Company - Private,1437
+1442,"Global Technical Talent, LLC",3.6,197,Company - Private,1442
+1443,CyberCoders,4.2,198,Subsidiary or Business Segment,1443
+1445,Nationwide Children's Hospital,3.7,198,Nonprofit Organization,1445
+1446,The Paragon Group,2.9,198,Company - Public,1446
+1447,Abercrombie & Fitch Co.,3.5,198,Company - Public,1447
+1452,"Staffigo Technical Services, LLC",5.0,198,Company - Private,1452
+1457,Beacon Hill Staffing Group,4.5,198,Company - Private,1457
+1460,Revel IT,5.0,201,Company - Private,1460
+1462,Avani Technology Solutions,4.5,198,Company - Private,1462
+1463,"Amyx, Inc.",4.0,198,Company - Private,1463
+1464,"Dedicated Tech Services, Inc.",4.5,201,Private Practice / Firm,1464
+1468,Nationwide Childrens Hospital,3.7,198,Nonprofit Organization,1468
+1470,Creative Financial Staffing,4.5,199,Company - Private,1470
+1477,pureIntegration,3.4,202,Company - Private,1477
+1478,Kforce,4.1,202,Company - Public,1478
+1479,Collabera,4.1,202,Company - Private,1479
+1480,TEKsystems,3.9,202,Subsidiary or Business Segment,1480
+1481,Artech LLC,3.9,202,Company - Private,1481
+1483,Matlen Silver,3.4,202,Company - Private,1483
+1484,Diversant LLC,3.8,202,Company - Private,1484
+1485,Signature Consultants,3.6,202,Company - Private,1485
+1486,Sysmind LLC,4.1,202,Company - Private,1486
+1488,Robert Half,3.5,202,Company - Public,1488
+1489,"Staffigo Technical Services, LLC",5.0,202,Company - Private,1489
+1492,"TEKsystems, Inc",3.9,202,Subsidiary or Business Segment,1492
+1494,"Resource Logistics, Inc.",4.7,202,Company - Private,1494
+1495,Diverse Lynx,3.9,202,Company - Private,1495
+1497,Vaco Technology,3.3,202,Company - Private,1497
+1499,OrthoCarolina,3.6,202,Company - Private,1499
+1500,American Tire Distributors,2.8,204,Company - Private,1500
+1502,Apex Systems,3.8,202,Subsidiary or Business Segment,1502
+1503,eTeam Inc.,3.7,202,Company - Private,1503
+1505,"Nesco Resource, LLC",2.9,205,Company - Private,1505
+1506,RGP,4.1,202,Company - Public,1506
+1511,Tek Leaders,3.5,202,Company - Private,1511
+1512,DATA Inc.,4.3,202,Company - Private,1512
+1514,London Stock Exchange Group,3.2,202,Company - Public,1514
+1518,CYNET SYSTEMS,4.0,202,Company - Private,1518
+1520,Collabera,4.1,205,Company - Private,1520
+1527,Driven Brands,1.8,202,Company - Private,1527
+1528,Tachyon Technologies LLC,4.4,202,Company - Private,1528
+1530,Canvas InfoTech Inc.,4.1,202,Company - Private,1530
+1531,"PruTech Solutions, Inc.",3.8,202,Company - Private,1531
+1533,Transportation Insight,3.7,202,Company - Private,1533
+1535,Midan Marketing,3.0,203,Company - Private,1535
+1536,Accenture Federal Services,3.6,202,Subsidiary or Business Segment,1536
+1537,Autodesk,4.0,207,Company - Public,1537
+1538,Vionic Group,3.6,208,Subsidiary or Business Segment,1538
+1542,Edmodo,3.8,209,Company - Private,1542
+1544,Freedom Financial Network,3.5,209,Company - Private,1544
+1545,AppleOne,3.3,207,Company - Private,1545
+1546,PubNub,4.1,207,Company - Private,1546
+1548,Giving Assistant,4.8,207,Company - Private,1548
+1550,Perficient,3.6,207,Company - Public,1550
+1553,Mondo,3.8,207,Company - Private,1553
+1560,Duetto,4.5,207,Company - Private,1560
+1563,Veem,4.1,207,Company - Private,1563
+1567,Hinge Health,4.4,207,Company - Private,1567
+1570,Shorenstein Realty Services L.P.,3.8,207,Company - Private,1570
+1572,UCSF Medical Center,4.1,207,Hospital,1572
+1573,Motiv Power Systems,4.6,207,Company - Private,1573
+1582,Artech LLC,3.9,207,Company - Private,1582
+1583,ICONMA,3.6,207,Company - Private,1583
+1587,Twitter,4.0,207,Company - Public,1587
+1588,UC San Francisco,4.1,207,College / University,1588
+1589,"Impaq International, Llc",3.4,210,Company - Private,1589
+1591,Diverse Lynx,3.9,207,Company - Private,1591
+1593,RGP,4.1,207,Company - Public,1593
+1595,"Evolver, Inc.",3.2,207,Company - Private,1595
+1598,Acumen,3.2,212,Company - Private,1598
+1599,Software Guidance & Assistance,3.7,207,Company - Private,1599
+1602,QuinStreet,3.2,209,Company - Public,1602
+1606,Marin City Health and Wellness Center,4.5,214,Nonprofit Organization,1606
+1608,"Staffigo Technical Services, LLC",5.0,207,Company - Private,1608
+1609,Ascent,4.6,215,Company - Private,1609
+1611,Net2Source,3.2,207,Company - Private,1611
+1616,"Netpace, Inc",3.9,213,Company - Private,1616
+1617,Qualys,3.0,213,Company - Public,1617
+1619,Focal Systems,3.8,212,Company - Private,1619
+1620,United IT Solutions,3.8,207,Company - Private,1620
+1626,ApTask,3.9,207,Company - Private,1626
+1627,Square,4.0,207,Company - Public,1627
+1630,Rose International,4.5,207,Company - Private,1630
+1632,Take-Two,3.7,219,Company - Public,1632
+1633,"Netpace, Inc.",3.9,213,Company - Private,1633
+1639,Stem Inc,3.2,220,Company - Private,1639
+1641,VLink Inc.,3.8,207,Company - Private,1641
+1643,Bank of the West,2.8,207,Subsidiary or Business Segment,1643
+1646,"PRIMUS Global Services, Inc",3.7,207,Company - Private,1646
+1647,Akraya Inc.,4.6,207,Company - Private,1647
+1649,Flexport,3.5,207,Company - Private,1649
+1650,Kforce,4.1,221,Company - Public,1650
+1651,Bio-Rad,3.3,222,Company - Public,1651
+1656,Apex Systems,3.8,207,Subsidiary or Business Segment,1656
+1657,Hazelcast,4.0,209,Company - Private,1657
+1660,University of California Berkeley,4.1,211,College / University,1660
+1662,HireTalent,4.5,207,Company - Private,1662
+1667,"TalentBurst, Inc.",3.9,207,Company - Private,1667
+1670,Alliance IT,4.4,221,Company - Private,1670
+1671,Square Trade,3.5,207,Company - Private,1671
+1673,"Next Level Business Services, Inc.",4.4,207,Company - Private,1673
+1675,GoAhead Solutions,4.9,207,Company - Private,1675
+1677,Franklin Templeton Investments,3.8,209,Company - Public,1677
+1678,Sutter Health System,3.9,210,Nonprofit Organization,1678
+1679,Incedo Inc,3.4,216,Company - Private,1679
+1680,Ascent,4.6,223,Company - Private,1680
+1686,The Ascent Services Group,4.6,221,Company - Private,1686
+1690,Central Garden & Pet Company,3.6,224,Company - Public,1690
+1691,Ascent,4.6,216,Company - Private,1691
+1692,The Ascent Services Group,4.6,208,Company - Private,1692
+1694,Concept Software & Services Inc,5.0,207,Company - Private,1694
+1695,Allied Solutions,3.2,225,Subsidiary or Business Segment,1695
+1696,Navient,3.3,226,Company - Public,1696
+1697,Briljent,3.5,226,Company - Private,1697
+1698,Upper Hand,4.2,226,Company - Private,1698
+1702,"Staffigo Technical Services, LLC",5.0,226,Company - Private,1702
+1704,The Fountain Group,3.6,226,Company - Private,1704
+1706,Swoon,4.6,226,Company - Private,1706
+1707,Keywords Studios,3.1,226,Company - Public,1707
+1709,CYNET SYSTEMS,4.0,226,Company - Private,1709
+1710,Health & Hospital Corporation,3.4,226,Company - Private,1710
+1711,Heartland Payment Systems,2.9,228,Subsidiary or Business Segment,1711
+1712,Franciscan Health,3.5,229,Nonprofit Organization,1712
+1714,CNO Financial Group,2.7,225,Company - Public,1714
+1715,Lionbridge,3.3,231,Company - Private,1715
+1719,Akraya Inc.,4.6,232,Company - Private,1719
+1720,Washington Federal,3.6,232,Company - Public,1720
+1723,TechDigital Corporation,3.5,232,Company - Private,1723
+1725,"LendingTree, LLC.",3.7,232,Company - Public,1725
+1726,Blue Origin,2.9,234,Company - Private,1726
+1727,"Staffigo Technical Services, LLC",5.0,232,Company - Private,1727
+1728,"Resource Logistics, Inc.",4.7,231,Company - Private,1728
+1730,Subex,3.2,235,Company - Public,1730
+1731,Fred Hutch,3.9,232,Nonprofit Organization,1731
+1733,Wipro Ltd.,2.9,231,Company - Public,1733
+1734,Intelliswift Software Inc,3.0,232,Company - Private,1734
+1737,Protingent,4.4,234,Company - Private,1737
+1738,eTeam Inc.,3.7,237,Company - Private,1738
+1741,eTeam Inc.,3.7,231,Company - Private,1741
+1742,Zen3 Infosolutions America Inc,3.6,231,Company - Private,1742
+1743,Serverlogic,3.5,232,Company - Private,1743
+1744,NuWest Group,4.2,234,Company - Private,1744
+1746,Resource Informatics Group,4.6,232,Nonprofit Organization,1746
+1748,W3Global,4.5,232,Company - Private,1748
+1749,Xoriant Corporation,3.6,237,Company - Private,1749
+1751,Johns Hopkins University,4.1,232,College / University,1751
+1752,Protingent Staffing,4.4,236,Company - Private,1752
+1753,University of Georgia,4.2,238,College / University,1753
+1754,"Staffigo Technical Services, LLC",5.0,238,Company - Private,1754
+1755,Focal Systems,3.8,239,Company - Private,1755
+1756,"Advent Global Solutions, Inc.",3.4,240,Company - Private,1756
+1758,CoreSite,3.8,241,Company - Public,1758
+1759,Autodesk,4.0,241,Company - Public,1759
+1761,Twilio,4.0,241,Company - Public,1761
+1762,BridgeView IT,3.8,241,Company - Private,1762
+1763,Integrated Resources,3.1,241,Company - Private,1763
+1764,"Paramount Software Solutions, Inc",4.3,241,Company - Private,1764
+1765,Wipro Ltd.,2.9,241,Company - Public,1765
+1766,GDKN,3.2,242,Company - Private,1766
+1767,Mondo,3.8,243,Company - Private,1767
+1769,Collabera,4.1,244,Company - Private,1769
+1770,Gloo,3.9,243,Company - Private,1770
+1771,Advent Global Solutions,3.4,241,Company - Private,1771
+1773,PROLIM Global Corporation,3.3,241,Company - Private,1773
+1774,"Staffigo Technical Services, LLC",5.0,241,Company - Private,1774
+1777,Infotree Service Inc,3.7,241,Company - Private,1777
+1778,CitiusTech,3.6,241,Company - Private,1778
+1779,Apex Systems,3.8,244,Subsidiary or Business Segment,1779
+1784,TA Digital,3.7,242,Company - Private,1784
+1786,Charles Schwab Corporation,3.6,248,Company - Public,1786
+1787,"Quicksilver Scientific, Inc",3.1,249,Company - Private,1787
+1789,Broadridge,3.5,241,Company - Public,1789
+1790,xentity corporation,5.0,241,Company - Private,1790
+1792,Kforce,4.1,241,Company - Public,1792
+1794,Century Communities,3.5,244,Company - Public,1794
+1795,Weston Solutions,3.6,247,Company - Private,1795
+1798,Recondo Technology,3.5,241,Company - Private,1798
+1802,ClientSolv Technologies,3.3,251,Company - Private,1802
+1806,Infotree Service Inc,3.7,246,Company - Private,1806
+1810,22nd Century Technologies,3.7,241,Company - Private,1810
+1813,DW Simpson,4.2,241,Company - Private,1813
+1814,Source of Future Technology Inc,4.1,241,Company - Private,1814
+1821,Global Healthcare Exchange,3.7,249,Company - Private,1821
+1822,V.L.S. Systems,3.3,241,Company - Private,1822
+1823,TechUSA,2.7,246,Company - Private,1823
+1824,GHX,2.8,249,Subsidiary or Business Segment,1824
+1827,Telligen,3.6,244,Company - Private,1827
+1828,ClientSolv Technologies,3.3,244,Company - Private,1828
+1829,"Amyx, Inc.",4.0,250,Company - Private,1829
+1831,"The Judge Group, Inc.",3.5,242,Company - Private,1831
+1832,Forfeiture Support Associates,2.8,242,Company - Private,1832
+1836,Contingent Network Services,3.1,242,Company - Private,1836
+1837,SCL Health,3.4,251,Nonprofit Organization,1837
